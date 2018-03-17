@@ -1,1 +1,3 @@
 exercises/
+.vscode/
+__pycache__/
